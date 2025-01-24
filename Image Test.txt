@@ -1,2 +1,4 @@
 <!DOCTYPE html>
-<img =src"Desktop/Website/Images/Monkey"> 
+<html lang="en">
+<img =src"Website/Images/Monkey"> 
+</html>
