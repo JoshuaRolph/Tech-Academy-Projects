@@ -1,2 +1,2 @@
 <!DOCTYPE html>
-<img =src"Images/Monkey"> 
+<img =src"Desktop/Website/Images/Monkey"> 
