@@ -1,4 +1,3 @@
 <!DOCTYPE html>
-<html>
 <img=src"Website/Images/Monkey"> 
 </html>
