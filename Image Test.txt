@@ -1,0 +1,2 @@
+<!DOCTYPE html>
+<img =src"Images/Scan_20241026">
