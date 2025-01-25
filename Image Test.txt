@@ -1,2 +1,2 @@
 <!DOCTYPE html>
-<img src=Website/Images/Monkey> 
+<img src= Website/Images/Monkey> 
