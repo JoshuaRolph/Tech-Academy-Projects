@@ -1,4 +1,3 @@
 <!DOCTYPE html>
-<img src="Images/Monkey">
-</img>
+<a> <img src="Images/Monkey"> </a>
  
