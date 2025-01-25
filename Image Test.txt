@@ -1,3 +1,10 @@
-<!DOCTYPE html>
-<img src="Images\Screenshot.jpg"/>
- 
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+	<img src="Screenshot.jpg"/>
+
+</body>
+</html> 
