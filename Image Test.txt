@@ -1,3 +1,3 @@
 <!DOCTYPE html>
-<img src="c:/user/jrolph/Desktop/Website/Images/Screenshot.jpg">
+<img src="Screenshot.jpg"/>
  
